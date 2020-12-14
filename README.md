@@ -39,3 +39,15 @@ finally, its display
 
 Using object oriented programming logic, lesson and note are entered as console input and transfer of these data to ArrayList 
 finally, its display and showing the pass and fail status by calculating the average
+
+# 8)HashSet - HashMap 
+
+The concepts of hashset and hashmap were covered using the object-oriented structure.
+
+# 9)ArrayList Composition
+
+The composition structure inside the arraylist is processed using the object-based structure.
+Composition over inheritance is the principle that classes should achieve polymorphic behavior and code reuse by their composition  rather than inheritance from a base or parent class.
+
+
+
